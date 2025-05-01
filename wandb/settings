@@ -1,0 +1,7 @@
+[default]
+entity = kdk6859-hanyang-university
+project = debug
+base_url = https://api.wandb.ai
+disabled = true
+mode = offline
+
